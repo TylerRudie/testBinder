@@ -1,7 +1,6 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TylerRudie/testBinder.git/master?filepath=1_Variables.ipynb)
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL
